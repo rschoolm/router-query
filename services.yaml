@@ -1,0 +1,9 @@
+router_query.query:
+  description: Query the TP-Link AC2300 router for the MAC addresses of connected devices.
+  fields:
+    device_type:
+      description: The type of device to query (e.g. "laptop", "smartphone").
+      example: laptop
+      required: true
+      type: string
+  service: router_query.query
