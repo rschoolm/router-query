@@ -1,5 +1,6 @@
 {
   "id": "router_query",
+  "domain": "router_query",
   "name": "Router Query",
   "description": "Queries the TP-Link AC2300 router for the MAC addresses of connected devices.",
   "version": "1.0.0",
