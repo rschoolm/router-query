@@ -4,7 +4,7 @@
   "description": "Queries the TP-Link AC2300 router for the MAC addresses of connected devices.",
   "version": "1.0.0",
   "url": "https://github.com/rschoolm/router-query",
-  "author": "Ryan Schoolmeyer",
+  "author": "Ryan Schoolmeyer (bot)",
   "min_homeassistant_version": "0.96",
   "integration_manifest": {
     "dependencies": [],
@@ -21,4 +21,3 @@
     ]
   }
 }
-
